@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "name":"React JS",
+        "price":0,
+        "description":"React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "category": "Free"
+    },
+    {
+        "id":2,
+        "name":"Node JS",
+        "price":0,
+        "description":"Node is a JavaScript library for building backend. It is maintained by Facebook and a community of individual developers and companies. Node Js can be used as a base in the development of single-page",
+        "image":"https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png",
+        "category": "Free"
+
+    },
+    {
+        "id":3,
+        "name":"Express JS",
+        "price":1200,
+        "description":"React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+        "image":"https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000",
+        "category": "Paid"
+    },
+    {
+        "id":4,
+        "name":"Mongo DB Auth",
+        "price":0,
+        "description":"React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+        "image":"../../public/mongo.png",
+        "category": "Free"
+    },
+    {
+        "id":5,
+        "name":"Digital Marketing With AI",
+        "price":800,
+        "description":"Dive into Digital Marketing with our AI-powered Beginner's Certification Course. Ideal for newcomers, self-learners and business owners seeking digital growth. This comprehensive program prepares you for entry-level roles making you industry-ready.",
+        "image":"../../public/digitalmarketing.png",
+        "category": "Paid"
+    },
+    {
+        "id":6,
+        "name":"Solidity, Ethereum, and Blockchain: The Complete Developer's Guide",
+        "price":0,
+        "description":"Learn Solidity from scratch, from an industry expert. You'll learn Solidity fundamentals all the way to advanced blockchain technologies.",
+        "image":"https://cdn.freebiesupply.com/logos/large/2x/ethereum-classic-1-logo-png-transparent.png",
+        "category": "Free"
+    },
+    {
+        "id":7,
+        "name":"The Complete Web Developer in 2024: Zero to Mastery",
+        "price":3000,
+        "description":"Learn to code. Get hired. This is one of the most popular, highly rated coding bootcamps online. It's also the most modern and up-to-date. Guaranteed. You'll go from complete beginner to learning to code and getting hired as a Developer (this year!) at companies like Google, Tesla, and Amazon.",
+        "image":"//images.ctfassets.net/aq13lwl6616q/5Vsjisy7BEI69JhQoonaZh/7712f3b736be815a1f1ed7ad867ac52b/Complete_Web_Developer_Zero_to_Mastery.png?w=500&fm=webp",
+        "category": "Paid"
+    },
+    {
+        "id":8,
+        "name":"PyTorch: Deep Learning And Artificial Intelligence",
+        "price":0,
+        "description":"PyTorch has been the library of choice for professionals and researchers around the globe for deep learning and artificial intelligence.",
+        "image":"../../public/ai.png",
+        "category": "Free"
+    },
+    {
+        "id":9,
+        "name":"Complete A.I. Machine Learning and Data Science: Zero to Mastery",
+        "price":1200,
+        "description":"One of the most popular, highly rated A.I., machine learning and data science bootcamps online. It's also the most modern and up-to-date. Guaranteed.You'll learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence), Python, Python with Tensorflow, Pandas & more!",
+        "image":"//images.ctfassets.net/aq13lwl6616q/6bolgTblguVmPNCuPtcPA0/6c5ba82b97b93170d0273565f1380ee0/MLDS_Cover_Photo-.png?w=500&fm=webp",
+        "category": "Paid"
+    },
+    {
+        "id":10,
+        "name":"Complete Red Hat System Administration Boot Camp – RHCSA 9",
+        "price":0,
+        "description":"This course fully prepares you to pass the Red Hat Certified System Administrator (RHEL 9) EX200 certification exam and become a Red Hat Certified System Administrator.",
+        "image":"../../public/hacker.png",
+        "category": "Free"
+    },
+    {
+        "id":11,
+        "name":"Unreal 5 Stealth Combat: Make Stealth Games In UE5 Blueprint",
+        "price":0,
+        "description":"Build your own 3rd person stealth combat game, complete playable map, alarm hazards, obstacles, enemies &more!.You’ll learn how to use the latest technologies in Unreal 5, like MetaHumans, Quixel, Niagara, Behavior trees, and much more.",
+        "image":"../../public/unreal.png",
+        "category": "Free"
+    },
+    {
+        "id":12,
+        "name":"Complete Ethical Hacking Course | Bug Bounty",
+        "price":1000,
+        "description":"In this course, you will learn some of the most common Web Application Vulnerabilities as well as Everything Needed to Start your journey in Practical Hacking",
+        "image":"../../public/white-hacker.png",
+        "category": "Paid"
+    },
+    {
+        "id":13,
+        "name":"ChatGPT Marketing: Create Complete Campaigns W/ Chat GPT AI",
+        "price":0,
+        "description":"This course is designed to provide students with the knowledge and skills needed to leverage ChatGPT’s capabilities to create effective marketing campaigns across multiple channels. By the end of the course.",
+        "image":"https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png",
+        "category": "Free"
+    },
+    {
+        "id":15,
+        "name":"PHP For Beginners – Become A PHP Master – CMS Project",
+        "price":0,
+        "description":"PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.The PHP reference implementation is now produced by the PHP Group.[11] PHP was originally an abbreviation of Personal Home Page",
+        "image":"https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png",
+        "category": "Free"
+    }
+]

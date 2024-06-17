@@ -1,0 +1,56 @@
+<div className="model flex h-screen justify-start items-center" id="my_model_3">
+          <dialog id="my_modal_3" className="">
+            <div className="dark:bg-slate-200 dark:text-black">
+              <form method="dialog">
+                {/* if there is a button in form, it will close the modal */}
+                <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+                  ✕
+                </button>
+              </form>
+              <h3 className="font-bold text-2xl text-center justify-center">
+                Signin
+              </h3>
+
+              {/* Email */}
+              <div className="mt-4 space-y-3">
+                <span>Email</span>
+                <br />
+                <input
+                  type="email"
+                  placeholder="Enter your email like @gmail.com"
+                  className="w-80 h-10 px-3 rounded-md border outline-none"
+                />
+                <br />
+              </div>
+
+              {/* password */}
+
+              <div className="mt-4 space-y-3">
+                <span>Password</span>
+                <br />
+                <input
+                  type="password"
+                  placeholder="Enter your password"
+                  className="w-80 h-10 px-3 rounded-md border outline-none"
+                />
+              </div>
+
+              {/* Button */}
+
+              <div className="justify-between flex mt-5">
+                <button className="bg-sky-500 p-3 font-bold rounded-2xl text-black hover:bg-zinc-900 hover:text-sky-500 hover:duration-200">
+                  Login
+                </button>
+                <p className="text-zinc-100 mt-5  dark:text-black">
+                  Not Registerd??
+                  <Link
+                    to={"/login"}
+                    className="underline text-sky-500 cursor-pointer"
+                  >
+                    Signup
+                  </Link>
+                </p>
+              </div>
+            </div>
+          </dialog>
+        </div>
